@@ -1,0 +1,79 @@
+ build together - grow together
+Core Features :
+These are your baseline — keep them and enhance them:
+Skills Profile — technical + non-technical tags, proficiency levels, endorsements from peers. Events Hub — technical (hackathons, coding contests) and non-technical (leadership workshops, photography, cultural events, dance, singing, design sprints). Posts Feed — all campus activity in one place. Create Post — share ideas, opportunities, or updates. Group Join Requests — request to join, accept/decline, with a brief intro message.
+
+🚀 Unique Features to Add
+1. AI Teammate Finder
+Not just "browse profiles" — input your project idea and the AI recommends the top  students whose skills, availability, and interests complement yours. 
+2. Skill Gap Detector
+When you create a project or group, the platform automatically scans your current team and highlights what skills are missing — then suggests specific students who fill those gaps in real time.
+3. Campus Innovation Score
+Each student gets a dynamic rating  based on projects completed, events attended, skills added, and collaborations formed. This gamifies engagement without being superficial — it becomes a portfolio signal.
+4. Project Lifecycle Tracker
+Every group/project goes through stages: Ideation → Building → Testing → Presenting. The platform tracks progress publicly, building credibility and helping judges or faculty follow real work happening on campus.
+5. Open Bounties Board
+Students or departments post micro-challenges with optional rewards (recognition, credits, certificates). Others can solo-solve or form teams to tackle them — driving organic collaboration around real problems.
+6. Anonymous Idea Vault
+Students can post ideas anonymously to test interest before committing. Others upvote, comment, or express interest in co-building. High-interest ideas surface to the top and attract collaborators naturally.
+7. Smart Event Recommendations
+Based on a student's skill profile and project stage, the platform recommends relevant upcoming events — not a generic list, but curated nudges like "You're building a fintech app — this workshop on financial APIs is happening Friday."
+8. Collaboration Heatmap (Admin/Faculty View)
+A visual dashboard showing which departments are collaborating, which skills are in demand, and where project activity is clustered — giving institutions real intelligence on campus innovation health.
+9. Exit & Impact Log
+When a project wraps up, the team logs what they built, what impact it had, and what they learned. This creates a public "Alumni of Projects" trail — a campus innovation portfolio that outlives graduation.
+
+Create a clean and professional profile page layout including:
+Skills section (with tags and levels)
+Hackathon participation counter
+Interested domains section
+External profile links (GitHub, LinkedIn) with platform icons
+
+✅ Add Smart Notifications System - Prevents users from missing opportunities.
+🔔 Smart Notifications-Join request updates & expiry alerts ,AI teammate match alerts ,Event reminders based on interests ,Skill gap suggestions in real time
+✅Add Portfolio Export Feature  - Export completed projects as PDF/portfolio
+Includes role, skills used, impact, and outcomes
+Useful for placements & internships
+
+Include team collaboration tools such as team chat, audio/video calls, task assignments, checklists, and a shared calendar for managing project work
+
+🏆 The 3 Features That Will Wow Judges Most
+AI Teammate Finder — immediately solves a real pain, uses AI visibly, and is highly demonstrable in a live demo. 
+Skill Gap Detector — feels magical when it works and directly ties to your core pitch.
+Project Lifecycle Tracker — shows depth, makes your platform feel like serious infrastructure rather than a social app.
+
+Here's what's built in:
+Use professional and clean color tones instead of neon gaming colors. The UI should feel modern, minimal, and suitable for a college platform
+
+UX ADDITIONS
+
+✔ dark/light mode toggle
+✔ save/bookmark ideas & projects
+✔ search across skills, events & ideas
+✔ project deadline reminders
+✔ quick “looking for teammates” toggle
+
+Your original features:
+
+🧑‍💻 Skills profiles with tech/non-tech tags 
+📅 Events Hub with technical + non-technical filter and registration tracking
+📡 Feed with all post types
+✍️ Create Post modal with skill selection and type picker
+🤝 Request to Join groups with an intro message modal and If a project join request is not accepted within 15 days, it should automatically expire and be rejected
+
+Unique features added:
+
+🏆 Gamification  —  level up in real time with animated level-up toasts 
+🏅 Badge Unlock System — cinematic full-screen badge unlock animations (try creating a post!)
+💬 Real-time Chat — floating chat panel with live-feel auto-reply simulation
+💰 Bounty Board — claim ratings from your teammates after completion of project
+💡 Idea Vault — post and co-build anonymous ideas
+📡 Live Activity Ticker — scrolling real-time campus activity bar at the top
+🧭 Skill-filtered Discovery — find teammates by filtering on any skill
+👤 Profile page — your stats, badge collection, and progress tracker
+Implement external profile linking. Users should be able to add LinkedIn and GitHub URLs to their profile. Display these links with icons on the profile page to enable verification of skills through projects, experience, and contributions
+colors:
+🎨 Accent Colors
+Muted Coral → #E07A5F
+Dusty Lavender → #8E7DBE
+Warm Sand → #F2E9E4
