@@ -1,8 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyA3Xk2xsqMYehO9Xs86T4q5yy6_Y6Z8F2Y",
+const firebaseConfig = { 
   authDomain: "campus-sync-31dd4.firebaseapp.com",
   projectId: "campus-sync-31dd4",
   storageBucket: "campus-sync-31dd4.firebasestorage.app",
